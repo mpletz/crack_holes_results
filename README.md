@@ -1,5 +1,8 @@
 # Results of plate with hole models
 
+### What are the rules?
+
+Plate with or without an initial crack is pulled vertically. The crack(s) can grow, but crack can also initiate from holes.
 
 ### Simple designs with round holes
 
