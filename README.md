@@ -55,7 +55,7 @@
 <p float="left" align="center">
   <img src="res_simple_splines/des-one-spline2-expl-da030/_crack-growth.gif" width="270" /> 
   <img src="res_simple_splines/des-one-spline2-expl-da030/_fu_res.png" width="270" />
-  <img src="res_simple_splines/des-one-spline3-expl-da030/_ucrit_res.png" width="270" />
+  <img src="res_simple_splines/des-one-spline2-expl-da030/_ucrit_res.png" width="270" />
 </p>
 <p float="left" align="center">
   <img src="res_simple_splines/des-spline-90-expl-da030/_crack-growth.gif" width="270" /> 
@@ -129,7 +129,47 @@
 ### Designs from drawings, adapted
 
 <p float="left" align="center">
-  <img src="res_femon_designs/plate-vasco2-expl-da030/_crack-growth.gif" width="270" /> 
-  <img src="res_femon_designs/plate-vasco2-expl-da030/_fu_res.png" width="270" />
-  <img src="res_femon_designs/plate-vasco2-expl-da030/_ucrit_res.png" width="270" />
+  <img src="res_femon_adapted/plate-bogerl-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-bogerl-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-bogerl-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-holes1-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-holes1-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-holes1-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-holes2-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-holes2-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-holes2-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-holes3-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-holes3-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-holes3-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-matthias1-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-matthias1-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-matthias1-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-matthias2-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-matthias2-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-matthias2-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-smiley-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-smiley-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-smiley-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-vasco1-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-vasco1-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-vasco1-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_femon_adapted/plate-vasco2-flipx1-rotz0-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_adapted/plate-vasco2-flipx1-rotz0-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_adapted/plate-vasco2-flipx1-rotz0-expl-da030/_ucrit_res.png" width="270" />
 </p>
