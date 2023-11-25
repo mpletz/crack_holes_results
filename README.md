@@ -9,9 +9,19 @@
   <img src="res_circ_holes/des-nocrack-nohole-expl-da030/_ucrit_res.png" width="270" />
 </p>
 <p float="left" align="center">
+  <img src="res_circ_holes/des-crack-nohole-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_circ_holes/des-crack-nohole-expl-da030/_fu_res.png" width="270" />
+  <img src="res_circ_holes/des-crack-nohole-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
   <img src="res_circ_holes/des-nocrack-hole020-expl-da030/_crack-growth.gif" width="270" /> 
   <img src="res_circ_holes/des-nocrack-hole020-expl-da030/_fu_res.png" width="270" />
   <img src="res_circ_holes/des-nocrack-hole020-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_circ_holes/des-crack-hole020-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_circ_holes/des-crack-hole020-expl-da030/_fu_res.png" width="270" />
+  <img src="res_circ_holes/des-crack-hole020-expl-da030/_ucrit_res.png" width="270" />
 </p>
 <p float="left" align="center">
   <img src="res_circ_holes/des-nocrack-hole040-expl-da030/_crack-growth.gif" width="270" /> 
@@ -19,9 +29,19 @@
   <img src="res_circ_holes/des-nocrack-hole040-expl-da030/_ucrit_res.png" width="270" />
 </p>
 <p float="left" align="center">
+  <img src="res_circ_holes/des-crack-hole040-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_circ_holes/des-crack-hole040-expl-da030/_fu_res.png" width="270" />
+  <img src="res_circ_holes/des-crack-hole040-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
   <img src="res_circ_holes/des-nocrack-hole060-expl-da030/_crack-growth.gif" width="270" /> 
   <img src="res_circ_holes/des-nocrack-hole060-expl-da030/_fu_res.png" width="270" />
   <img src="res_circ_holes/des-nocrack-hole060-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
+  <img src="res_circ_holes/des-crack-hole060-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_circ_holes/des-crack-hole060-expl-da030/_fu_res.png" width="270" />
+  <img src="res_circ_holes/des-crack-hole060-expl-da030/_ucrit_res.png" width="270" />
 </p>
 
 

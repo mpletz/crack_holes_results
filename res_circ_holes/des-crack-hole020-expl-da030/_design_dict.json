@@ -1,0 +1,1 @@
+{"name": "des-crack-hole020", "functions": "plate", "B,H": [80.0, 85.0], "crack": {"a0": 10.0, "x0": [0, 0], "n0": [1, 0]}, "hole_list": [{"type": "circ", "data": [20, 0, 8]}], "u_load": 0.2, "E_rel": 0}
