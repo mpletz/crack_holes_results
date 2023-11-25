@@ -1,0 +1,43 @@
+NOTE: Temporary directory C:\Users\MARTIN~1\AppData\Local\Temp\martinpletz_inc-01-01_7900 exists.  This indicates the directory was not cleaned from a previous run.
+NOTE: Temporary directory C:\Users\MARTIN~1\AppData\Local\Temp\martinpletz_inc-01-01_7900_0 exists.  This indicates the directory was not cleaned from a previous run.
+Analysis initiated from SIMULIA established products
+Abaqus JOB inc-01-01
+Abaqus 2020
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 5 tokens from Flexnet server licsrv.
+<293 out of 425 licenses remain available>.
+Begin Analysis Input File Processor
+11/25/2023 9:54:21 AM
+Run pre.exe
+11/25/2023 9:54:25 AM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+11/25/2023 9:54:25 AM
+Run standard.exe
+11/25/2023 9:54:28 AM
+End Abaqus/Standard Analysis
+Begin SIM Wrap-up
+11/25/2023 9:54:29 AM
+Run SMASimUtility.exe
+!!! EXCEPTION:
+!!!   System Error CreateHardLink: The parameter is incorrect.
+
+!!! TRACEBACK:
+!!!   SMASimExcSystemError::Propagate
+!!!   SMASimUttFileUtils::LinkIfUnique
+!!!   SMASimFileCleaner::MoveOne
+!!!   SMASimFileCleaner::Consolidate
+!!!   SMASimFileCleaner::WrapAll
+!!!   <stack frame not available>
+!!!   <stack frame not available>
+!!!   <stack frame not available>
+!!!   <stack frame not available>
+!!!   <stack frame not available>
+!!!   <stack frame not available>
+!!!
+!!! SIM wrap utility command error:
+!!!   System Error CreateHardLink: The parameter is incorrect.
+
+!!!
+11/25/2023 9:54:29 AM
+driverExceptions.AbaqusExecutionError: ('SIM Wrap-up', 1)
