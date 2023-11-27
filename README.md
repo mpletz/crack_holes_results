@@ -104,6 +104,11 @@ Plate with or without an initial crack is pulled vertically. The crack(s) can gr
   <img src="res_femon_designs/plate-bogerl-expl-da030/_ucrit_res.png" width="270" />
 </p>
 <p float="left" align="center">
+  <img src="res_femon_designs/plate-clara-expl-da030/_crack-growth.gif" width="270" /> 
+  <img src="res_femon_designs/plate-clara-expl-da030/_fu_res.png" width="270" />
+  <img src="res_femon_designs/plate-clara-expl-da030/_ucrit_res.png" width="270" />
+</p>
+<p float="left" align="center">
   <img src="res_femon_designs/plate-matthias1-expl-da030/_crack-growth.gif" width="270" /> 
   <img src="res_femon_designs/plate-matthias1-expl-da030/_fu_res.png" width="270" />
   <img src="res_femon_designs/plate-matthias1-expl-da030/_ucrit_res.png" width="270" />
